@@ -1,6 +1,6 @@
 {
   "name": "react-native-ts-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A custom starter for React Native with TypeScript.",
   "main": "index.js",
   "bin": "./index.js",
@@ -20,12 +20,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/athaljen/react-native-pip-mode.git"
+    "url": "git+https://github.com/athaljen/react-native-ts-starter.git"
   },
   "author": "athaljen <athaljen@gmail.com> (https://github.com/athaljen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/athaljen/react-native-pip-mode/issues"
+    "url": "https://github.com/athaljen/react-native-ts-starter/issues"
   },
-  "homepage": "https://github.com/athaljen/react-native-pip-mode#readme"
+  "homepage": "https://github.com/athaljen/react-native-ts-starter#readme"
 }
