@@ -22,9 +22,9 @@ console.log(
 );
 if (
   shell.exec(
-    `npx react-native${rnVersion ? "@" + rnVersion : ""} init ${appName} ${
+    `npx @react-native-community/cli init ${appName} ${
       rnVersion ? "--version " + rnVersion : ""
-    }  --skip-install`
+    }`
   ).code !== 0
 ) {
   console.error("Error: Failed to initialize React Native project.");
